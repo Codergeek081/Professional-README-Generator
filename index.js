@@ -10,13 +10,13 @@ const questions = [
     {
         type: 'Input',
         name: 'title',
-        message: 'What is the title of your project',
+        message: 'What is the title of this project',
         validate: (input) => (input ? true : 'Please enter a project title!'),
 },
 {
     type:'input',
     name: 'description',
-    message:'Provide a short description of your project:',
+    message:'Provide a short description of this project:',
     validate: (input) => (input ? true: 'Please enter installation instruction!' )
 },
 {
