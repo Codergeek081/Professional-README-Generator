@@ -47,7 +47,7 @@ const questions = [
 {
     type: 'input',
     name: 'email',
-    message: 'Enter your email address:',
+    message: 'Please enter your email address:',
     validate: (input) => (input ? true : 'Please enter your email address')
 },
 
