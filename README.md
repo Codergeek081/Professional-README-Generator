@@ -1,8 +1,8 @@
-# Math2.0
-![License](https://img.sheilds.io/badge/license-GPL-blue.svg)
+# ESSENCE DU NORD 
+![License](https://img.sheilds.io/badge/license-MIT-blue.svg)
 
 ## Description
-You use this application by signing up for an account, logging in, and selecting a math topic you'd like to explore. The app provides lessons, quizzes, and interactive activities to help improve your skills.
+Eco friendly hotel
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,7 +17,7 @@ undefined
 
 
 ## Usage
-This application is user-friendly. Simply open it, select the topic you’d like to work on, and follow the prompts to complete math problems or lessons interactively.
+To use this application, you need to sign up and make an account, choose what type of reservation you would like, pay the fee for the resercation online, and get your booking reservation in your email.
 
 ## License
 ## Contributing
@@ -26,8 +26,8 @@ undefined
 
 
 ##Tests
-Install Dependencies: Make sure to install all necessary dependencies by running:
+The test instructions are to 1. Open the terminal and write node index.js 2.Answer all of the questions on the command-line 3. Make sure your README file was generated correctly.
 ##Questions
 If you have any questions, please feel free to reach out to us on:
-- Github: [npm install] (https://github.com/npm install)
-- Email: [Run the Application: Execute the application in the terminal using the command:)(mailto:Run the Application: Execute the application in the terminal using the command:)
+- Github: [https://github.com/git@github.com:Codergeek081/Professional-README-Generator.git] (https://github.com/https://github.com/git@github.com:Codergeek081/Professional-README-Generator.git)
+- Email: [elasri.khawla1@gmail.com)(mailto:elasri.khawla1@gmail.com)
