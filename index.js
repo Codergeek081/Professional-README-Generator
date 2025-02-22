@@ -16,8 +16,8 @@ const questions = [
 {
     type:'input',
     name: 'description',
-    message:'Provide a short description of this project:',
-    validate: (input) => (input ? true: 'Please enter installation instruction!' )
+    message:'Provide a short description of the project:',
+    validate: (input) => (input ? true: 'Please enter a project description!' )
 },
 {
     type: 'input',
@@ -30,6 +30,11 @@ const questions = [
     name: 'license',
     message: 'Choose a license for this project:',
     choices: ['MIT', 'GPL', 'Apache', 'None'],
+},
+{
+    type: "input",
+    name: "contributing",
+    message: "How to contribute",
 },
 {
     type: 'Input',
